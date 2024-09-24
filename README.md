@@ -3,7 +3,7 @@
 ## Project 1: CV Generator Using Python
  
 ### Introduction
-This project is a personal endeavor where I developed a CV generator using Python. The purpose of this project was to create a professional and customisable CV that I could easily update and format as needed. It serves not only as a functional tool for generating my own CV but also as a demonstration of my programming skills and understanding of data formatting.
+This project is a personal endeavour where I developed a CV generator using Python. The purpose of this project was to create a professional and customisable CV that I could easily update and format as needed. It serves not only as a functional tool for generating my own CV but also as a demonstration of my programming skills and understanding of data formatting.
 
 ### Project Overview
 The CV generator utilises the FPDF library to create a structured PDF document that includes essential sections such as:
